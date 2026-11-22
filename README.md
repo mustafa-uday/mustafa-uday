@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa Uday
 
-**Full Stack Developer** · React · Next.js · .NET · PostgreSQL · Baghdad, Iraq · Open to remote
+**Full Stack Developer** · React · Next.js · .NET · PostgreSQL · Baghdad, Iraq 
 
 I build production SaaS for companies in Iraq and the Gulf: clean-architecture ASP.NET Core APIs, data-heavy Next.js admin panels, and bilingual Arabic/English (RTL) products.
 
