@@ -1,4 +1,3 @@
-# Hi, I'm Mustafa Uday
 
 **Full Stack Developer** · React · Next.js · .NET · PostgreSQL · Baghdad, Iraq 
 
