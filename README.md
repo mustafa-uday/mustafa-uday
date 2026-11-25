@@ -14,13 +14,6 @@
 
 I build production SaaS for companies in Iraq and the Gulf: clean-architecture ASP.NET Core APIs, data-heavy Next.js admin panels, and bilingual Arabic/English (RTL) products. Based in Baghdad, Iraq · open to remote work.
 
-### What I'm working on
-
-- **RoboHR** - HR, attendance and payroll platform (.NET 8, PostgreSQL, Next.js, MUI)
-- **RoboByte.DeviceHub** - vendor-neutral integration with biometric attendance terminals over the ZK protocol
-- **AidLab** - laboratory management system with a [published patient app](https://apps.apple.com/iq/app/aid-lab/id6802295249) on the App Store
-- **Cassette** - Arabic-first music-streaming platform (admin side)
-
 Most of my work is private company code at [RoboByte](https://robo-byte.com). Public projects are pinned below.
 
 ### Tech stack
